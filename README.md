@@ -1,2 +1,2 @@
 # yolov8_loopy
-yolov8_loopy
+无聊做了一个用yolov8识别loopy的项目，顺便当做深度深度学习的作业交了
